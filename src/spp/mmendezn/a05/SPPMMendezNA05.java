@@ -9,6 +9,8 @@ import java.util.Scanner;
  *
  * @author migue
  */
+//miguel mendez nevarez
+//Imt
 public class SPPMMendezNA05 {
 
     /**
